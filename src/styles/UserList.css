@@ -1,0 +1,20 @@
+table{
+    margin-top: 1rem;
+    text-align: left;
+    border-collapse: collapse;
+}
+
+table button{
+    margin-right: 8px;
+}
+
+table th {
+    border-bottom: 1px grey solid;
+    min-width: 150px;
+}
+
+table td{
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
+    border-bottom: 1px grey dashed;
+}

@@ -1,0 +1,57 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    border: none;
+    font-family: Poppins, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+label,
+th{
+    color: rgb(255, 255, 255);
+}
+
+p,
+td{
+    color: rgb(189, 189, 189);
+}
+
+input{
+    padding: 0.3rem;
+}
+
+button{
+    padding: 0.5rem;
+    border-radius: 5px;
+    background-color: rgb(238, 104, 55);
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+    transition: all 0.3s ease-out 0s;
+}
+
+.button-edit{
+    background-color: rgb(66, 152, 202);
+}
+
+.button-edit:hover{
+    background-color: rgb(103, 185, 233);
+}
+
+.button-delete{
+    background-color: rgb(223, 57, 27);
+}
+
+button:hover{
+    background-color: coral;
+}
+
+body{
+    background-color: #1b1b1b;
+}

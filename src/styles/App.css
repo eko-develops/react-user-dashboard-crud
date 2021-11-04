@@ -1,0 +1,21 @@
+.App{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.content{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+
+.App > h1{
+    margin-bottom: 50px;
+}
+
+.UserFormWrapper{
+    height: 300px;
+}
