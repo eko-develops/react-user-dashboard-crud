@@ -13,6 +13,10 @@ table th {
     min-width: 150px;
 }
 
+table thead tr th{
+    padding-bottom: 1rem;
+}
+
 table td{
     padding-top: 0.3rem;
     padding-bottom: 0.3rem;
